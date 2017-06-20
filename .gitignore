@@ -1,0 +1,9 @@
+.DS_Store
+/build
+/config/phinx.php
+/sessions
+/node_modules
+/vendor
+/public/bower_components
+/public/css
+/public/debugbar
