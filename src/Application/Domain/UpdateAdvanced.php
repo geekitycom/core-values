@@ -39,6 +39,7 @@ class UpdateAdvanced
             'session' => $session,
             'values' => implode("\n", $values),
             'count' => $count,
+            'title' => 'Advanced Settings for Core Values',
         ];
     }
 }

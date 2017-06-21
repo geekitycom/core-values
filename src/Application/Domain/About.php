@@ -23,6 +23,7 @@ class About
         return [
             'success' => true,
             'session' => $session,
+            'title' => 'About Core Values',
         ];
     }
 }
