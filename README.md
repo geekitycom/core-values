@@ -6,6 +6,7 @@ Available to use at [values.geekity.com](https://values.geekity.com).
 
 ## Setup
 
+```
 # Install dependencies
 composer install
 npm install
